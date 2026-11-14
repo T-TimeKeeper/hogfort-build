@@ -1,0 +1,1081 @@
+{
+"v": 1,
+"build": "362.1",
+"ch": 1,
+"www": [
+{
+"path": "bench.html",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/bench.html",
+"sha256": "9f4d9e536643532d43de9514ed4adb14092be528407e796497c8bf7544bc0038",
+"size": 1777
+},
+{
+"path": "bench.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/bench.js",
+"sha256": "5729ba69f36b21ec2c29239ec3b12d7057023f38a8d5ddfde27eda42ba8167a8",
+"size": 14308
+},
+{
+"path": "icon-1024.png",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/icon-1024.png",
+"sha256": "23343f3ea257810da95c162d459656045d6c1371bb67295ec16657112d3b7ae9",
+"size": 1179835
+},
+{
+"path": "icon-180.png",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/icon-180.png",
+"sha256": "d19834e409fa015af47ed1c8a565060a8c793b4d1564d63c452c678d5aff716c",
+"size": 43104
+},
+{
+"path": "icon-192.png",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/icon-192.png",
+"sha256": "594f1b7ecf1eae583ed76f178a91a410b9e2bb0af9d83dfd18d1e7eef281e463",
+"size": 48613
+},
+{
+"path": "icon-512.png",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/icon-512.png",
+"sha256": "3e6cf925157eeee35f3ab818d2303f19e3d30078d9abde1308271f4c5c99c9b7",
+"size": 248314
+},
+{
+"path": "index.html",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/index.html",
+"sha256": "b8796b33af33b755194143f7e65756b8c064c51a05a4638b0fe9f3f529776cd8",
+"size": 12658693
+},
+{
+"path": "manifest.json",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/manifest.json",
+"sha256": "f274e59cd05ee99e555cd613e79f38dd83af70bf20b1c457fde2d41b1b3c72f8",
+"size": 471
+},
+{
+"path": "splash-1290x2796.png",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/splash-1290x2796.png",
+"sha256": "3d43c6f618f7d381b5455f94312f035539dda081679bce96ad13493aaefa5401",
+"size": 2482899
+},
+{
+"path": "fonts/manrope-cyrillic-500-normal.woff2",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/fonts/manrope-cyrillic-500-normal.woff2",
+"sha256": "945f3991587b4cee13b6c746d5f5bc41cf5be12c868492aa4a6d09aa385e311c",
+"size": 7796
+},
+{
+"path": "fonts/manrope-cyrillic-600-normal.woff2",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/fonts/manrope-cyrillic-600-normal.woff2",
+"sha256": "9d19f651631ad08f84a97103aa8fa159af32306c6076cbdb9f44fb1632123474",
+"size": 7884
+},
+{
+"path": "fonts/manrope-cyrillic-700-normal.woff2",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/fonts/manrope-cyrillic-700-normal.woff2",
+"sha256": "6363f333064ff1e21cad0db1291d5272c6300dac0da35f0859034e99c1fac038",
+"size": 7828
+},
+{
+"path": "fonts/manrope-cyrillic-800-normal.woff2",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/fonts/manrope-cyrillic-800-normal.woff2",
+"sha256": "b085f4184c7d053327d78a19512ee7b8bac7c920aaaa11e109379c69a9412384",
+"size": 7584
+},
+{
+"path": "fonts/manrope-latin-500-normal.woff2",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/fonts/manrope-latin-500-normal.woff2",
+"sha256": "43974f76e756e6e5c6bb6e260c493c87eee0be51fc860be66c7b61da5a14046d",
+"size": 14068
+},
+{
+"path": "fonts/manrope-latin-600-normal.woff2",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/fonts/manrope-latin-600-normal.woff2",
+"sha256": "4b52f2bf3d110469312cbedd409316b145c19be8cb792a17fa6ba91a91ebb23e",
+"size": 14152
+},
+{
+"path": "fonts/manrope-latin-700-normal.woff2",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/fonts/manrope-latin-700-normal.woff2",
+"sha256": "a97cf33c625a19ecd47ffb685ff3d140fee83b441c4297ccfed3d300e79757a7",
+"size": 14212
+},
+{
+"path": "fonts/manrope-latin-800-normal.woff2",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/fonts/manrope-latin-800-normal.woff2",
+"sha256": "2c93dbed269346e87b7b3c2e1edae26678743afb6abd60a3d8e6734b3b4e5a6a",
+"size": 13680
+},
+{
+"path": "fonts/nunito-cyrillic-800-normal.woff2",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/fonts/nunito-cyrillic-800-normal.woff2",
+"sha256": "2d540ea9664a8388aedabc704734fda775cef0e631d6a8584b349e325f841462",
+"size": 8424
+},
+{
+"path": "fonts/nunito-cyrillic-900-normal.woff2",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/fonts/nunito-cyrillic-900-normal.woff2",
+"sha256": "4ea133d916df6e7a1edee6852560ee4cf14fd5e53c6458410f753cb970fb11db",
+"size": 8492
+},
+{
+"path": "fonts/nunito-latin-800-normal.woff2",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/fonts/nunito-latin-800-normal.woff2",
+"sha256": "5b6eb685c75677d9dab957b198d7f19ec9a1d34b378fbd440885c080a5ca6b53",
+"size": 16488
+},
+{
+"path": "fonts/nunito-latin-900-normal.woff2",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/fonts/nunito-latin-900-normal.woff2",
+"sha256": "0cba53564c5fb39bd6accc3eadbd9018748dff734ca3480d9cdc5f69f489ce28",
+"size": 16656
+},
+{
+"path": "fonts/unbounded-cyrillic-700-normal.woff2",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/fonts/unbounded-cyrillic-700-normal.woff2",
+"sha256": "ef4dc1ba80cadac99a3b89c3157081ab0483224e1dd95ef2ff0561acfc619923",
+"size": 12636
+},
+{
+"path": "fonts/unbounded-cyrillic-800-normal.woff2",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/fonts/unbounded-cyrillic-800-normal.woff2",
+"sha256": "6c6986b1ce089f5929378f1af41524a7a97d78bab0e2bdfcb44bd1d293aa54cc",
+"size": 12964
+},
+{
+"path": "fonts/unbounded-cyrillic-900-normal.woff2",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/fonts/unbounded-cyrillic-900-normal.woff2",
+"sha256": "9aa9b95ca12b5b59daec305dc1c8ec280da9ef198b5a5d70ac7acf953da7d8d8",
+"size": 12780
+},
+{
+"path": "fonts/unbounded-latin-700-normal.woff2",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/fonts/unbounded-latin-700-normal.woff2",
+"sha256": "d1df311316e4909c90e7facf5f5a0ea8f5ce7f1d52f89be7a1c688c6c42b1077",
+"size": 21280
+},
+{
+"path": "fonts/unbounded-latin-800-normal.woff2",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/fonts/unbounded-latin-800-normal.woff2",
+"sha256": "af06207654d494c419a6b7c4f9c87b21518e5e6f5dde496f8431a3ef97b107b3",
+"size": 21868
+},
+{
+"path": "fonts/unbounded-latin-900-normal.woff2",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/fonts/unbounded-latin-900-normal.woff2",
+"sha256": "f519b4a3bd202b79722801827f2ae9c911aee4c8ebf6e256685f2a148dc7c315",
+"size": 21136
+},
+{
+"path": "lib/three/build/three.module.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/build/three.module.js",
+"sha256": "3e690ac7d180b0aadf0891bea39eec643e29e2d3e75c99b18689518665f69ba6",
+"size": 670681
+},
+{
+"path": "lib/three/examples/jsm/environments/DebugEnvironment.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/environments/DebugEnvironment.js",
+"sha256": "66105772567af7dad5722c8064e76fbd0940de967b091d2ccb21e64336e8acf5",
+"size": 1335
+},
+{
+"path": "lib/three/examples/jsm/environments/RoomEnvironment.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/environments/RoomEnvironment.js",
+"sha256": "e21f41b7ef2016f2984a5d27850b42dffa797a6a194a138e288b06576d765a7b",
+"size": 3735
+},
+{
+"path": "lib/three/examples/jsm/libs/meshopt_decoder.module.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/libs/meshopt_decoder.module.js",
+"sha256": "01f48524f4bac6141eaba07e94cc36e7ee56f311796fa6117c159842941b0468",
+"size": 24850
+},
+{
+"path": "lib/three/examples/jsm/loaders/3DMLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/3DMLoader.js",
+"sha256": "0dccd7abdb334e7b214ccb91ecd24eba745133665864b1322c995ff28903e083",
+"size": 37568
+},
+{
+"path": "lib/three/examples/jsm/loaders/3MFLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/3MFLoader.js",
+"sha256": "ab87d6b14e4bfd3290348c0d16a924d44aa44d555f720df9e9d5bd5389fa59ca",
+"size": 34529
+},
+{
+"path": "lib/three/examples/jsm/loaders/AMFLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/AMFLoader.js",
+"sha256": "d42cb6c70cf28f51ca8517a6f340205b16d92f124b574d5ac613ebdec799aad5",
+"size": 10668
+},
+{
+"path": "lib/three/examples/jsm/loaders/BVHLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/BVHLoader.js",
+"sha256": "7a991d754a320a824fe04ee5f9a974bc3b016d1554453ec0b276c1d4070bae00",
+"size": 9019
+},
+{
+"path": "lib/three/examples/jsm/loaders/ColladaLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/ColladaLoader.js",
+"sha256": "f188ae4f2891b9c689ab9b7c5ece2722e149f5d69b8ec6d43a474e510b3c88b1",
+"size": 83845
+},
+{
+"path": "lib/three/examples/jsm/loaders/DDSLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/DDSLoader.js",
+"sha256": "48aabf005cd99e5f1abee380da18544e9c405e9d8ec1ba1789a4162d36b4232c",
+"size": 7160
+},
+{
+"path": "lib/three/examples/jsm/loaders/DRACOLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/DRACOLoader.js",
+"sha256": "65c114ecb7b349cdc59c75b2c92d19cca672a138060dba0f60f64262fa40408c",
+"size": 13628
+},
+{
+"path": "lib/three/examples/jsm/loaders/EXRLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/EXRLoader.js",
+"sha256": "f7be0130cac5cb9b231a85cc510a7ce5bfe4c10c51db36c3566a6e33c2cf5d7f",
+"size": 54981
+},
+{
+"path": "lib/three/examples/jsm/loaders/FBXLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/FBXLoader.js",
+"sha256": "e8c2a47dffc04ca5699839a6d80fa9140fd9c943f62cea8d074736d7de9c5d98",
+"size": 101466
+},
+{
+"path": "lib/three/examples/jsm/loaders/FontLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/FontLoader.js",
+"sha256": "1f0da5a44cf7051a4a3b348dc483315e48fb90fb9b85898d0dd3cb077afe30d8",
+"size": 3204
+},
+{
+"path": "lib/three/examples/jsm/loaders/GCodeLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/GCodeLoader.js",
+"sha256": "a9c814a6a8297552aca0d650e376c7c02d05e000c1b57e047473dc1eaa2d6863",
+"size": 5409
+},
+{
+"path": "lib/three/examples/jsm/loaders/GLTFLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/GLTFLoader.js",
+"sha256": "d073b438e6a07e1359741dd5d6c76c953420cc0d4fd84eb1bdde94315540e6a3",
+"size": 108522
+},
+{
+"path": "lib/three/examples/jsm/loaders/HDRCubeTextureLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/HDRCubeTextureLoader.js",
+"sha256": "078ae037f7bc25c2d0dd4db1876714cd49578fe43363c38934606a37bf71c7ff",
+"size": 2183
+},
+{
+"path": "lib/three/examples/jsm/loaders/IESLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/IESLoader.js",
+"sha256": "7ee2b5e4d3364d622277b87cd175bf57c4b843814a753c743ca6623d9683d843",
+"size": 7096
+},
+{
+"path": "lib/three/examples/jsm/loaders/KMZLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/KMZLoader.js",
+"sha256": "2a979b6980e9005d3323b11f9beddc5ea9bb4bd9528fb8347529ce3cd2506abb",
+"size": 2211
+},
+{
+"path": "lib/three/examples/jsm/loaders/KTX2Loader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/KTX2Loader.js",
+"sha256": "9cca5aa35fdb04b4818c792c8d08fb6e7607dcafc46e7b06a9485e9f25261be7",
+"size": 22589
+},
+{
+"path": "lib/three/examples/jsm/loaders/KTXLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/KTXLoader.js",
+"sha256": "17f37655f2b0f9c21cff79b1d282ef99a832a07d617252bb6ecfd438f94d7018",
+"size": 6450
+},
+{
+"path": "lib/three/examples/jsm/loaders/LDrawLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/LDrawLoader.js",
+"sha256": "9f335b29f966c203b5b98b328ff082ffc28c8f4163cc11c0f48a74e61376edde",
+"size": 57206
+},
+{
+"path": "lib/three/examples/jsm/loaders/LUT3dlLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/LUT3dlLoader.js",
+"sha256": "9d973ef8bb0410ea2725115f07e2eff04a2bd6a7d763b4fda63afc63b0ddb234",
+"size": 3907
+},
+{
+"path": "lib/three/examples/jsm/loaders/LUTCubeLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/LUTCubeLoader.js",
+"sha256": "813a3ada1d85b136f16019173b12fc7585dd54a1a7ae9c5156109e170a4c45a7",
+"size": 3441
+},
+{
+"path": "lib/three/examples/jsm/loaders/LUTImageLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/LUTImageLoader.js",
+"sha256": "c4f25649922426e82448cc8cffb94d90472d6ccf3fbf40d6db753ba1361af84b",
+"size": 3337
+},
+{
+"path": "lib/three/examples/jsm/loaders/LWOLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/LWOLoader.js",
+"sha256": "7f870f3d6cb08bfc1e599beb7124950029e6cb179208d095ad992796f55f5395",
+"size": 23543
+},
+{
+"path": "lib/three/examples/jsm/loaders/LogLuvLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/LogLuvLoader.js",
+"sha256": "e4a1e3336b2c57249100b72ad8b3dcbd8eb4c15478a87cf52b06849a21a3961b",
+"size": 19433
+},
+{
+"path": "lib/three/examples/jsm/loaders/LottieLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/LottieLoader.js",
+"sha256": "899427067a8ceefeccf56da8e16486cc4c8f0458f6141ad018e3466c07fa78c1",
+"size": 1486
+},
+{
+"path": "lib/three/examples/jsm/loaders/MD2Loader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/MD2Loader.js",
+"sha256": "041209718f22166b6d2c3133b54e009b33e085d56c4458b38c9bb818ccd73dff",
+"size": 12372
+},
+{
+"path": "lib/three/examples/jsm/loaders/MDDLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/MDDLoader.js",
+"sha256": "b39dd6679452c11386c0128c059e5aa8325224b0b07efa609f5d3a1f8c7a4d04",
+"size": 2304
+},
+{
+"path": "lib/three/examples/jsm/loaders/MMDLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/MMDLoader.js",
+"sha256": "21aa7619ab6234db28c334f83ae3e5cf6aa0771d4fcf8add3b638ba28f308ced",
+"size": 51887
+},
+{
+"path": "lib/three/examples/jsm/loaders/MTLLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/MTLLoader.js",
+"sha256": "990757029142686fdcbbaded27207234151a9942469a1aa5417842b302565174",
+"size": 10580
+},
+{
+"path": "lib/three/examples/jsm/loaders/MaterialXLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/MaterialXLoader.js",
+"sha256": "4fbdb98dbc00079d0654a17dfc74c12de60b0ef23648a1e0da48522672e8c637",
+"size": 15316
+},
+{
+"path": "lib/three/examples/jsm/loaders/NRRDLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/NRRDLoader.js",
+"sha256": "dd1b6528fa0ac6be5dfb7d2971e2a063aa33d7644e0dff478c3af5a9c4669859",
+"size": 13481
+},
+{
+"path": "lib/three/examples/jsm/loaders/OBJLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/OBJLoader.js",
+"sha256": "022e0334f837c60506276e136faf3e54b21b20aea672eed4a0c50651d4fc0a5d",
+"size": 21175
+},
+{
+"path": "lib/three/examples/jsm/loaders/PCDLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/PCDLoader.js",
+"sha256": "f8e9dfd80f564df06cc906d75bee50facf3d50ed1aed1c7a2da3747e30a971d3",
+"size": 12318
+},
+{
+"path": "lib/three/examples/jsm/loaders/PDBLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/PDBLoader.js",
+"sha256": "6a2a1c875ffc374c8a4835456dafa0e50b3f9376e3fdad5fcd41e0c1a762992e",
+"size": 6867
+},
+{
+"path": "lib/three/examples/jsm/loaders/PLYLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/PLYLoader.js",
+"sha256": "5b1f81016923481f66e3cd70cbbdfbe6742e60ae51839bccd8e4a8f7d616db9d",
+"size": 16622
+},
+{
+"path": "lib/three/examples/jsm/loaders/PVRLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/PVRLoader.js",
+"sha256": "e7efb2230ae0d31a36da4225532c09bee037d6e34524748859e1c3ddc12e45ad",
+"size": 4718
+},
+{
+"path": "lib/three/examples/jsm/loaders/RGBELoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/RGBELoader.js",
+"sha256": "f0e87d0008d9484d31358b32befd1bf80e4301f77573cc9a7cf7d871cc3f64b4",
+"size": 11377
+},
+{
+"path": "lib/three/examples/jsm/loaders/RGBMLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/RGBMLoader.js",
+"sha256": "b48fd1c9960b074e3cfb450202955e9f2b6c9fb79b3b1a8c6f653f4d98f0dc32",
+"size": 28278
+},
+{
+"path": "lib/three/examples/jsm/loaders/STLLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/STLLoader.js",
+"sha256": "896d006a48b8f125385a485ccae154dadee801a953f0b45ceffe7ddd8a29ca93",
+"size": 10029
+},
+{
+"path": "lib/three/examples/jsm/loaders/SVGLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/SVGLoader.js",
+"sha256": "6ae9cdd2067dfd546568acf859c19b223e39c46cc03d27b1a419ca25c55722e3",
+"size": 69558
+},
+{
+"path": "lib/three/examples/jsm/loaders/TDSLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/TDSLoader.js",
+"sha256": "dd0989eea0aef821a515ec0f9602cad26ea5290589e7ca779eb9b2b80f6dfb37",
+"size": 24660
+},
+{
+"path": "lib/three/examples/jsm/loaders/TGALoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/TGALoader.js",
+"sha256": "ce938459ed99d5234f9665270cca8552464d0d1703a094e49760631e6b14c7a3",
+"size": 11150
+},
+{
+"path": "lib/three/examples/jsm/loaders/TIFFLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/TIFFLoader.js",
+"sha256": "985882df773cc536fd3d2f7630830ef431ab7812770bf5bd684fc482ecb261b3",
+"size": 572
+},
+{
+"path": "lib/three/examples/jsm/loaders/TTFLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/TTFLoader.js",
+"sha256": "726398fbbf9e913c35139d13be0405a01fee4acb243efb16765b15cd26b9cb3c",
+"size": 4212
+},
+{
+"path": "lib/three/examples/jsm/loaders/TiltLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/TiltLoader.js",
+"sha256": "a7714d063a3167f538777079f8db92b96aae31c0fe0fa512f5eddb30afc05a1f",
+"size": 14505
+},
+{
+"path": "lib/three/examples/jsm/loaders/USDZLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/USDZLoader.js",
+"sha256": "25b3f2b45c447c30d39d25e5dd4080cefe77646992d190086b201339068b142d",
+"size": 17528
+},
+{
+"path": "lib/three/examples/jsm/loaders/VOXLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/VOXLoader.js",
+"sha256": "7a3ac42a56815b9fdf667df3c7cfe0e969992dc2aee93d53c827daab56847145",
+"size": 8785
+},
+{
+"path": "lib/three/examples/jsm/loaders/VRMLLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/VRMLLoader.js",
+"sha256": "7d1c6a31674daa0ac45d9ae87e4ecfd1848b704dab77d5133367c89feb65ea55",
+"size": 73233
+},
+{
+"path": "lib/three/examples/jsm/loaders/VTKLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/VTKLoader.js",
+"sha256": "65839e82ba39d0d918745105b15ed9c82e39d60985456514aaccd2101ccff230",
+"size": 27515
+},
+{
+"path": "lib/three/examples/jsm/loaders/XYZLoader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/XYZLoader.js",
+"sha256": "e0b0108bfdf4a059c8050e35ff56f4adaa08626dc3bb3f299da2c3ad3d786e28",
+"size": 1913
+},
+{
+"path": "lib/three/examples/jsm/loaders/lwo/IFFParser.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/lwo/IFFParser.js",
+"sha256": "0f14b45c175488928d1ef0aa6ceec0765e52f1d6c3d232d0655d00ec279d4b96",
+"size": 26284
+},
+{
+"path": "lib/three/examples/jsm/loaders/lwo/LWO2Parser.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/lwo/LWO2Parser.js",
+"sha256": "8fd8159c6a4c91a421a667660abbaa83244ead6581586b65abbbe2ab4af5dec6",
+"size": 10137
+},
+{
+"path": "lib/three/examples/jsm/loaders/lwo/LWO3Parser.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/loaders/lwo/LWO3Parser.js",
+"sha256": "6b56d4b581d40a1525f687273231b67c8bc6a4dbdedf7d544e6c8925e63c17c0",
+"size": 9269
+},
+{
+"path": "lib/three/examples/jsm/postprocessing/AfterimagePass.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/postprocessing/AfterimagePass.js",
+"sha256": "f35ae79f5e8a2985eefd8e697a89af6b339b5dc38f6d610d1808bbc7329c7724",
+"size": 2248
+},
+{
+"path": "lib/three/examples/jsm/postprocessing/BloomPass.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/postprocessing/BloomPass.js",
+"sha256": "08bf2db46cbf428cb2e57eef58c9f20afb347f8965b861de859306f4c5803ec4",
+"size": 4001
+},
+{
+"path": "lib/three/examples/jsm/postprocessing/BokehPass.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/postprocessing/BokehPass.js",
+"sha256": "581ad606035764f92a6c5124980ddeb78c09cb076d2bdeb6c760ca9d0a8332ec",
+"size": 3394
+},
+{
+"path": "lib/three/examples/jsm/postprocessing/ClearPass.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/postprocessing/ClearPass.js",
+"sha256": "b2a7e0a47231d96c91509016b4b67e23b3aea5f2f1fc30d38c7ed614f9bf354c",
+"size": 875
+},
+{
+"path": "lib/three/examples/jsm/postprocessing/CubeTexturePass.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/postprocessing/CubeTexturePass.js",
+"sha256": "b9a1962de0f1c680dbfb37d7db3252548faf54e1e8b7da3b83c5af88d0ee4866",
+"size": 1940
+},
+{
+"path": "lib/three/examples/jsm/postprocessing/DotScreenPass.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/postprocessing/DotScreenPass.js",
+"sha256": "730669469fc5bfa71c1f6cf57f0e15dfc216c712f78d0d99356cb41758caf27d",
+"size": 1368
+},
+{
+"path": "lib/three/examples/jsm/postprocessing/EffectComposer.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/postprocessing/EffectComposer.js",
+"sha256": "d234e578618fa816955ebdc059c049c577e203e650e33cf22bde3f232c29e669",
+"size": 4651
+},
+{
+"path": "lib/three/examples/jsm/postprocessing/FilmPass.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/postprocessing/FilmPass.js",
+"sha256": "d9b5aafe5cb1b6ed953613fd4befe1a2ab06c8832048aca8d5299f004af014b2",
+"size": 1236
+},
+{
+"path": "lib/three/examples/jsm/postprocessing/GTAOPass.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/postprocessing/GTAOPass.js",
+"sha256": "5140b7cc63800381ced45bef3a7a55c471f4be3cd9eb70b947e7ebfbe92658c2",
+"size": 16466
+},
+{
+"path": "lib/three/examples/jsm/postprocessing/GlitchPass.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/postprocessing/GlitchPass.js",
+"sha256": "97f3dad18fc895228c7458a29bd000b995bb1ea0a8fa656a3e7af102787cbb36",
+"size": 3076
+},
+{
+"path": "lib/three/examples/jsm/postprocessing/HalftonePass.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/postprocessing/HalftonePass.js",
+"sha256": "6a88432e447c011a64a830225f28e2f6b4c7560eba0f694ea40791e276c72019",
+"size": 1522
+},
+{
+"path": "lib/three/examples/jsm/postprocessing/LUTPass.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/postprocessing/LUTPass.js",
+"sha256": "d888ee98ac2cc78d7af7eef39ccd51249cd4797a83e262c6454f32a787120ba1",
+"size": 3229
+},
+{
+"path": "lib/three/examples/jsm/postprocessing/MaskPass.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/postprocessing/MaskPass.js",
+"sha256": "328cf7db0da5d9be83ffe39d54b01d5ac1fddf108cc98182ddbb056f5c8b537f",
+"size": 2231
+},
+{
+"path": "lib/three/examples/jsm/postprocessing/OutlinePass.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/postprocessing/OutlinePass.js",
+"sha256": "1de2b42f6f491dcea6bfe8ad1d8df6c8f46ebcfe5b2ee4c22a9c1fce7f03318f",
+"size": 20329
+},
+{
+"path": "lib/three/examples/jsm/postprocessing/OutputPass.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/postprocessing/OutputPass.js",
+"sha256": "13817fc7a87f662d29d2c5e00f44d3a4588c9afac4a372de0cacb0e44e368ffd",
+"size": 2398
+},
+{
+"path": "lib/three/examples/jsm/postprocessing/Pass.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/postprocessing/Pass.js",
+"sha256": "b3c6128340eaa37e40a6a2f1b738e894c855239417d50959759b34a2b5e89f92",
+"size": 1706
+},
+{
+"path": "lib/three/examples/jsm/postprocessing/RenderPass.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/postprocessing/RenderPass.js",
+"sha256": "1c90c085312871c4bcdccfcf519499c6276dd503363fcf7cb7f703add45cf4a2",
+"size": 1915
+},
+{
+"path": "lib/three/examples/jsm/postprocessing/RenderPixelatedPass.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/postprocessing/RenderPixelatedPass.js",
+"sha256": "6baa0d748dda9cb800730f5168f16e66b149ce652dbfd2aac21e270ba52e3363",
+"size": 6228
+},
+{
+"path": "lib/three/examples/jsm/postprocessing/SAOPass.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/postprocessing/SAOPass.js",
+"sha256": "bf1377135c1f690c679b25392a265195f245c7560045b13372ba9030d9d9dc1e",
+"size": 11389
+},
+{
+"path": "lib/three/examples/jsm/postprocessing/SMAAPass.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/postprocessing/SMAAPass.js",
+"sha256": "f3508e3e17f40c1358921b5c7eb3ab60460d97b06fdadf6b0d40b52d3842c44a",
+"size": 49467
+},
+{
+"path": "lib/three/examples/jsm/postprocessing/SSAARenderPass.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/postprocessing/SSAARenderPass.js",
+"sha256": "3222f5ab07ecb33336b90da48574eabd6f40b987028bb38b185ac0d0b0ef1415",
+"size": 6047
+},
+{
+"path": "lib/three/examples/jsm/postprocessing/SSAOPass.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/postprocessing/SSAOPass.js",
+"sha256": "22ef811aeda777d2ba71d8f70cd332aa843782b9ffc559e6ba0dbfffa003061d",
+"size": 11421
+},
+{
+"path": "lib/three/examples/jsm/postprocessing/SSRPass.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/postprocessing/SSRPass.js",
+"sha256": "c6516ce3ce6c5ac7ea6e3b91d1bbd19cb2058c55984e4541cede5b7e26421a6b",
+"size": 18545
+},
+{
+"path": "lib/three/examples/jsm/postprocessing/SavePass.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/postprocessing/SavePass.js",
+"sha256": "1df86199043b9bc82d2025f3dc93446fc4ce72c0c2b157109f5ad90b98153d56",
+"size": 1440
+},
+{
+"path": "lib/three/examples/jsm/postprocessing/ShaderPass.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/postprocessing/ShaderPass.js",
+"sha256": "3b28a1ee27e0eb96c0eab137a1f442ccf127a926904eced2d51e125ec44af781",
+"size": 1576
+},
+{
+"path": "lib/three/examples/jsm/postprocessing/TAARenderPass.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/postprocessing/TAARenderPass.js",
+"sha256": "8ccf7e2c45a364ae2bc610f89efb58f19eaa8c4f834504ff1a54ddaaa8e284a2",
+"size": 4878
+},
+{
+"path": "lib/three/examples/jsm/postprocessing/TexturePass.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/postprocessing/TexturePass.js",
+"sha256": "25e5e500c1dcdc7c4cf9706c7adebf6f9033da3d22d06753173fb88dc45e3d1b",
+"size": 1345
+},
+{
+"path": "lib/three/examples/jsm/postprocessing/UnrealBloomPass.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/postprocessing/UnrealBloomPass.js",
+"sha256": "8f09315c0cec117a0ca2494d3e3586035b3c4323d6dcb037537cc51b04c3cdba",
+"size": 12406
+},
+{
+"path": "lib/three/examples/jsm/shaders/ACESFilmicToneMappingShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/ACESFilmicToneMappingShader.js",
+"sha256": "89c260d14baeca95ccb9446989a29582b00b938eccd238c23f9520bb3a72df98",
+"size": 1910
+},
+{
+"path": "lib/three/examples/jsm/shaders/AfterimageShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/AfterimageShader.js",
+"sha256": "cc97e9abf49de21aed313f69a1faafbc0ba91bbd4739735a60dd9d4e569cc86b",
+"size": 903
+},
+{
+"path": "lib/three/examples/jsm/shaders/BasicShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/BasicShader.js",
+"sha256": "35a4869476224379c0d6be4ff89b266034eb9e012c02ac447ceaeb7ecce74614",
+"size": 351
+},
+{
+"path": "lib/three/examples/jsm/shaders/BleachBypassShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/BleachBypassShader.js",
+"sha256": "e952c304c23f5d750a676c9a623645cce7de6af60df087896c4345fd1eed94d0",
+"size": 1212
+},
+{
+"path": "lib/three/examples/jsm/shaders/BlendShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/BlendShader.js",
+"sha256": "6cf2d069f5c28d33b30e99487797d5c16d5fca8211d715c16619e4c8522b42ea",
+"size": 754
+},
+{
+"path": "lib/three/examples/jsm/shaders/BokehShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/BokehShader.js",
+"sha256": "a6558cc4baf2c372c192828e9fffcf088d22f80291ac72a13a5be6d3b7a18ddc",
+"size": 5769
+},
+{
+"path": "lib/three/examples/jsm/shaders/BokehShader2.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/BokehShader2.js",
+"sha256": "d6b85194a6373645ceb5f721011586ee1e154d7fdbf34840233996b41b44c73d",
+"size": 9678
+},
+{
+"path": "lib/three/examples/jsm/shaders/BrightnessContrastShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/BrightnessContrastShader.js",
+"sha256": "2c46e1cb27675f2a5dbe78f48d42be56ed5ef5a70c3a15e702fdaa4673f826fd",
+"size": 1066
+},
+{
+"path": "lib/three/examples/jsm/shaders/ColorCorrectionShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/ColorCorrectionShader.js",
+"sha256": "873d3e1656a8c3e8f7376ac19a9eff32cd8e1d6e64e7e6ac4c2af5e3f23ba548",
+"size": 822
+},
+{
+"path": "lib/three/examples/jsm/shaders/ColorifyShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/ColorifyShader.js",
+"sha256": "53eef59544519c732ca547f6ca1834684a89e529b1f967d227542211de5ff6c5",
+"size": 704
+},
+{
+"path": "lib/three/examples/jsm/shaders/ConvolutionShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/ConvolutionShader.js",
+"sha256": "c7a7cab01cba2cd52194a666456bd1ad255537dc72e679eaacd3d7d00d9987af",
+"size": 1809
+},
+{
+"path": "lib/three/examples/jsm/shaders/CopyShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/CopyShader.js",
+"sha256": "4e3346db194db56a596cd074e9bdb39fb5eb52040c333e0d29dc4eb1324d3b1d",
+"size": 571
+},
+{
+"path": "lib/three/examples/jsm/shaders/DOFMipMapShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/DOFMipMapShader.js",
+"sha256": "a553b699bfccff6ea7cd0fc12b541e9fd493761d953cadb85384362b5c848d67",
+"size": 918
+},
+{
+"path": "lib/three/examples/jsm/shaders/DepthLimitedBlurShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/DepthLimitedBlurShader.js",
+"sha256": "8eadec80ac7f53e4dcdb7bec462c23d09f5ad0607be60671beed6c74001be996",
+"size": 3707
+},
+{
+"path": "lib/three/examples/jsm/shaders/DigitalGlitch.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/DigitalGlitch.js",
+"sha256": "5c059f7b87b8e5a1bf40826d5868f60a770cb4ca72d4b01e83607a6c282aea25",
+"size": 2574
+},
+{
+"path": "lib/three/examples/jsm/shaders/DotScreenShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/DotScreenShader.js",
+"sha256": "19387f17f3b6074af88d59a4fa0d98fe60e5f82f6ace8eae34501d40bfeebbad",
+"size": 1204
+},
+{
+"path": "lib/three/examples/jsm/shaders/ExposureShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/ExposureShader.js",
+"sha256": "ae8a5bfe0945fbe93bb5184fd79cf2dc6e5a2c7fa6fb9bcccd1bbb98ab155476",
+"size": 567
+},
+{
+"path": "lib/three/examples/jsm/shaders/FXAAShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/FXAAShader.js",
+"sha256": "e25c46db03ac2420d9291ff202112464cc9cf5114efc8477cc0a59c65653d4aa",
+"size": 8477
+},
+{
+"path": "lib/three/examples/jsm/shaders/FilmShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/FilmShader.js",
+"sha256": "4c29573e2e49c3da33ed5071e08f1dd45726a5e84c6e3c7f67f0f4433be8be6c",
+"size": 923
+},
+{
+"path": "lib/three/examples/jsm/shaders/FocusShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/FocusShader.js",
+"sha256": "11f0e99b2cf145422d230c7e8a3b8aeb70a7f50faa5c1745088e322d2c2fa426",
+"size": 2305
+},
+{
+"path": "lib/three/examples/jsm/shaders/FreiChenShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/FreiChenShader.js",
+"sha256": "144d4b256fb880086a843cda15cf1add803be87efa0803369675bec2d4b1b948",
+"size": 2970
+},
+{
+"path": "lib/three/examples/jsm/shaders/GTAOShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/GTAOShader.js",
+"sha256": "94edb1040c7b5e859b17c2817782c8e895118a2d824ed162cab187aa32cc5a15",
+"size": 13009
+},
+{
+"path": "lib/three/examples/jsm/shaders/GammaCorrectionShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/GammaCorrectionShader.js",
+"sha256": "2c4be26ffe907ea9b7486d29c89b3113602ff8b6dd819600d9fee44aa05c2b05",
+"size": 595
+},
+{
+"path": "lib/three/examples/jsm/shaders/GodRaysShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/GodRaysShader.js",
+"sha256": "98321a26b72ed87cb30b06056841c236f633781b343d1fc505ca1e0ada52d3ba",
+"size": 6826
+},
+{
+"path": "lib/three/examples/jsm/shaders/HalftoneShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/HalftoneShader.js",
+"sha256": "8b4b1bfd35c20f4aa41288b58e2c31cd3cdffd9d39437aa7cfafde7f9d0a93c1",
+"size": 8584
+},
+{
+"path": "lib/three/examples/jsm/shaders/HorizontalBlurShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/HorizontalBlurShader.js",
+"sha256": "e8cec0d56a044755e010a1a14e5232900e3f0eef7d214e82511d3fd327f281fe",
+"size": 1452
+},
+{
+"path": "lib/three/examples/jsm/shaders/HorizontalTiltShiftShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/HorizontalTiltShiftShader.js",
+"sha256": "f733ecf595f8eb186e0af47cc935d0544b45e6d2f238631860126f73573b8230",
+"size": 1585
+},
+{
+"path": "lib/three/examples/jsm/shaders/HueSaturationShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/HueSaturationShader.js",
+"sha256": "ba960bb1c0598eaea11af0d91e2a4ffa1eda0d13dd35ef7e3fca4dc212222432",
+"size": 1480
+},
+{
+"path": "lib/three/examples/jsm/shaders/KaleidoShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/KaleidoShader.js",
+"sha256": "c5f0bae91442692752acb0a27851070e298e734ec0972f98ce89e441fc14d2bd",
+"size": 1014
+},
+{
+"path": "lib/three/examples/jsm/shaders/LuminosityHighPassShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/LuminosityHighPassShader.js",
+"sha256": "3d841cc594a0c1767d1b0185720b32761a0133c5f1b70b56658e28f2fb9b7900",
+"size": 1192
+},
+{
+"path": "lib/three/examples/jsm/shaders/LuminosityShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/LuminosityShader.js",
+"sha256": "bd9850de54d357a5b27ab863a4b64732df203d693c23596638f2823272dbd55c",
+"size": 624
+},
+{
+"path": "lib/three/examples/jsm/shaders/MMDToonShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/MMDToonShader.js",
+"sha256": "b1e01ab0442c3c04ec7fbfb024c15d7636c1ff94de260a839ab4ecbd69ffca5b",
+"size": 3466
+},
+{
+"path": "lib/three/examples/jsm/shaders/MirrorShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/MirrorShader.js",
+"sha256": "aec9c8d51eff48acd6e2c622f7820344d606c815f487a7eb26565e61fc4a6b58",
+"size": 914
+},
+{
+"path": "lib/three/examples/jsm/shaders/NormalMapShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/NormalMapShader.js",
+"sha256": "65a7a09c2cbe73dbf011ade21cb0b5518de359a2e5f678a45f04d5cb9e415ca7",
+"size": 995
+},
+{
+"path": "lib/three/examples/jsm/shaders/OutputShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/OutputShader.js",
+"sha256": "53a52e430c27bc36ceaab8ae90a2b4af7b02672d7ee4b29d6ba3c28e09c92c2a",
+"size": 1393
+},
+{
+"path": "lib/three/examples/jsm/shaders/PoissonDenoiseShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/PoissonDenoiseShader.js",
+"sha256": "3dab419b23529f8fd59e2713458502f9f51d2dd3af3e1285dc671fcc451d49fb",
+"size": 6614
+},
+{
+"path": "lib/three/examples/jsm/shaders/RGBShiftShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/RGBShiftShader.js",
+"sha256": "b3d756910ecc52cecc388a0201dea6d257374d6285c3b4239bba4168775484b1",
+"size": 1115
+},
+{
+"path": "lib/three/examples/jsm/shaders/SAOShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/SAOShader.js",
+"sha256": "ea612bd0e94f37eaa8b28572bb8a1d6284886bd0b9f0317333e47824cb15338a",
+"size": 4879
+},
+{
+"path": "lib/three/examples/jsm/shaders/SMAAShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/SMAAShader.js",
+"sha256": "3c7e942a25cb09dd431e395e6e91904715a834b2a6e62ec0b9b77c2f8655c369",
+"size": 14628
+},
+{
+"path": "lib/three/examples/jsm/shaders/SSAOShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/SSAOShader.js",
+"sha256": "bd5cda34d6b52941c1121b77947664848af10dc68febd453dfdc56c59e58ba06",
+"size": 6478
+},
+{
+"path": "lib/three/examples/jsm/shaders/SSRShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/SSRShader.js",
+"sha256": "89af520f75efdf71146a94d3315fd24f8164263813f6c90ad34e5e585b604c12",
+"size": 9405
+},
+{
+"path": "lib/three/examples/jsm/shaders/SepiaShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/SepiaShader.js",
+"sha256": "b2410131c866ae100a85219cc71f6378863e1a121174af132e1b39866e097a86",
+"size": 936
+},
+{
+"path": "lib/three/examples/jsm/shaders/SobelOperatorShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/SobelOperatorShader.js",
+"sha256": "8c05b27af385d799909b1c8e02db912b157801b46fc6c1ffff875891ac75668e",
+"size": 2352
+},
+{
+"path": "lib/three/examples/jsm/shaders/SubsurfaceScatteringShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/SubsurfaceScatteringShader.js",
+"sha256": "928fcd768893b34e9b846518e061f2f909914895c97aad734d2b92bb2027324d",
+"size": 3238
+},
+{
+"path": "lib/three/examples/jsm/shaders/TechnicolorShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/TechnicolorShader.js",
+"sha256": "9955296180bb4ed8c72fa3781ad4ae2947c53fd184b3deec7c0dd7cd4fdd9544",
+"size": 864
+},
+{
+"path": "lib/three/examples/jsm/shaders/ToonShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/ToonShader.js",
+"sha256": "63ce45397f4cd3eb003835a4b6e0fa3be6c26525936f30cf76b4012f7f003e6c",
+"size": 6779
+},
+{
+"path": "lib/three/examples/jsm/shaders/TriangleBlurShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/TriangleBlurShader.js",
+"sha256": "15a55da6652447f09ff1a2865fe2f40e9d3dd3aa7c5c69692df790fa9ccaa1b6",
+"size": 1278
+},
+{
+"path": "lib/three/examples/jsm/shaders/UnpackDepthRGBAShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/UnpackDepthRGBAShader.js",
+"sha256": "50d69438a19835067fa46f10d2e83a54b340525941ae9786ad9d5f7f6cc6ad7f",
+"size": 709
+},
+{
+"path": "lib/three/examples/jsm/shaders/VelocityShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/VelocityShader.js",
+"sha256": "2610ed7c95635d7d4098a43f5d5bdd4a2a730605eb114191cc1cebb743abbec1",
+"size": 2996
+},
+{
+"path": "lib/three/examples/jsm/shaders/VerticalBlurShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/VerticalBlurShader.js",
+"sha256": "2453354690a83991ceb76253d62393ab5feeec537e12ecb6aac06ca90d046661",
+"size": 1446
+},
+{
+"path": "lib/three/examples/jsm/shaders/VerticalTiltShiftShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/VerticalTiltShiftShader.js",
+"sha256": "ad1184ac6ff50cf6f9110f7cf07c542bbb23ddff9d8538564a39425ef40fa172",
+"size": 1579
+},
+{
+"path": "lib/three/examples/jsm/shaders/VignetteShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/VignetteShader.js",
+"sha256": "e162f38b113d87015ac1e7304b1946bf7883d4c4cfd8fd4a001604a907f93f67",
+"size": 893
+},
+{
+"path": "lib/three/examples/jsm/shaders/VolumeShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/VolumeShader.js",
+"sha256": "e991be02a4a9a758ddef48c5f73f7b834b34a01502e9a19aa462602b4d577af1",
+"size": 9745
+},
+{
+"path": "lib/three/examples/jsm/shaders/WaterRefractionShader.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/shaders/WaterRefractionShader.js",
+"sha256": "401f1511adc027891128a68bf03f6d6891e29bf72557eca2fbcc237a205597be",
+"size": 1809
+},
+{
+"path": "lib/three/examples/jsm/utils/BufferGeometryUtils.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/utils/BufferGeometryUtils.js",
+"sha256": "9be041e96308775d00e2695cc607645b9a9b64fd7c0e759dd8f7c00a8d92becb",
+"size": 31906
+},
+{
+"path": "lib/three/examples/jsm/utils/CameraUtils.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/utils/CameraUtils.js",
+"sha256": "cf55c12d72de6ba226d3db847a1f0691ff81b4e7879fcfe1865ec5824ce32bbe",
+"size": 2850
+},
+{
+"path": "lib/three/examples/jsm/utils/GPUStatsPanel.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/utils/GPUStatsPanel.js",
+"sha256": "78bb89c7f2539c72d79f71969e228186e67117a358d1dd31871a4a0158996369",
+"size": 2470
+},
+{
+"path": "lib/three/examples/jsm/utils/GeometryCompressionUtils.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/utils/GeometryCompressionUtils.js",
+"sha256": "35818e6582314c0dda4cfda59b8d73c0cb083a9c445e051d93165842be05a3fd",
+"size": 14687
+},
+{
+"path": "lib/three/examples/jsm/utils/GeometryUtils.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/utils/GeometryUtils.js",
+"sha256": "f3dd8a7fbb69ec0a8bdfa06dfb758870e8d2aa1a887fa83992eeeee321cec34b",
+"size": 5113
+},
+{
+"path": "lib/three/examples/jsm/utils/LDrawUtils.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/utils/LDrawUtils.js",
+"sha256": "721bd941938f9ea671821c864862d6ad69afcdd5d2c990ee4791dbffc5d7d997",
+"size": 5808
+},
+{
+"path": "lib/three/examples/jsm/utils/PackedPhongMaterial.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/utils/PackedPhongMaterial.js",
+"sha256": "86d585f5466b44f0546c2f945d8e739c43f40ee2f2b821b6dad455b22de3f9c1",
+"size": 3950
+},
+{
+"path": "lib/three/examples/jsm/utils/SceneUtils.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/utils/SceneUtils.js",
+"sha256": "599e81dde3a960400923be9197ced149d726063d0eca585b141be389d567a96d",
+"size": 5511
+},
+{
+"path": "lib/three/examples/jsm/utils/ShadowMapViewer.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/utils/ShadowMapViewer.js",
+"sha256": "65f4c2fd58741c80ead41539d956f2ea5b28bd3fa70fd331b3bdd7b9d2325e25",
+"size": 5595
+},
+{
+"path": "lib/three/examples/jsm/utils/SkeletonUtils.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/utils/SkeletonUtils.js",
+"sha256": "83748c5072a5ce96e9d68d8efda908a1f1a06c0b5fd2618edc3e54a361a8fd5b",
+"size": 8007
+},
+{
+"path": "lib/three/examples/jsm/utils/SortUtils.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/utils/SortUtils.js",
+"sha256": "b2db0ac200c51c012f8b6d3d01cf5d2360050dbe6c2cecf9817aab2551c0bc93",
+"size": 3049
+},
+{
+"path": "lib/three/examples/jsm/utils/TextureUtils.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/utils/TextureUtils.js",
+"sha256": "1b84a7fde8745dd614f62b6ca8108b592144278c07891a0cbe8cdf8e15796efa",
+"size": 2367
+},
+{
+"path": "lib/three/examples/jsm/utils/UVsDebug.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/utils/UVsDebug.js",
+"sha256": "8d6e973a38c4b8584c616c606835661ef3ea629ccba73a7d671a94bcb0985458",
+"size": 3097
+},
+{
+"path": "lib/three/examples/jsm/utils/WorkerPool.js",
+"url": "https://raw.githubusercontent.com/T-TimeKeeper/hogfort-build/main/www/lib/three/examples/jsm/utils/WorkerPool.js",
+"sha256": "94ff7b608caf3b827ffa95bd6092b9d174732b856915b38ed006b4f049f95675",
+"size": 1712
+}
+]
+}

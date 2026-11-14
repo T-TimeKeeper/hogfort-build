@@ -1,0 +1,18 @@
+<!doctype html>
+<!-- The built-in measure (plan/native/PLAN.md §1.2): the game's page as it is + bench.js. The measure plays with its own save kept in
+     memory — the player's save is never read or written. Opened by the build badge of the app: /bench.html?native=1 -->
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,user-scalable=no"><title>Hogfort замер</title>
+<body style="margin:0;background:#070a16;color:#9cc4ff;font:600 15px -apple-system,system-ui,sans-serif"><p style="padding:40vh 20px 0;text-align:center">Загружаю игру для замера…</p>
+<script>
+(async()=>{
+  class Mem{constructor(){this._m=new Map()}getItem(k){return this._m.has(String(k))?this._m.get(String(k)):null}setItem(k,v){this._m.set(String(k),String(v))}
+    removeItem(k){this._m.delete(String(k))}clear(){this._m.clear()}key(i){return [...this._m.keys()][i]??null}get length(){return this._m.size}}
+  let own=false;try{Object.defineProperty(window,'localStorage',{value:new Mem(),configurable:true});own=window.localStorage instanceof Mem}catch(e){}
+  if(!own){document.body.innerHTML='<p style="padding:40vh 20px 0;text-align:center">Замер не запущен: не удалось отделить сохранение замера от сохранения игры.</p>';return}
+  window.__benchOwnSave=true;
+  const r=await fetch('index.html',{cache:'no-store'});
+  if(!r.ok){document.body.innerHTML='<p style="padding:40vh 20px 0;text-align:center">Замер не запущен: страница игры не найдена ('+r.status+').</p>';return}
+  const html=await r.text();
+  document.open();document.write(html+'\n<script src="bench.js"><\/script>\n');document.close();
+})();
+</script>
